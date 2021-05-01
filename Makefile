@@ -1,4 +1,4 @@
-moduleName = my_dummy_device_driver3
+moduleName = my_dummy_device_driver1
 obj-m += $(addsuffix .o, $(moduleName))
 
 all:
